@@ -2,10 +2,21 @@
   "name": "baltov-intellij-dracula-theme",
   "displayName": "Baltov's Intellij Dracula Colour Theme",
   "description": "Modified Intellij Dracula Colour Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "Baltov",
   "engines": {
     "vscode": "^1.92.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PeterBaltov/vscode-dracula-theme"
+  },
+  "keywords": [
+    "theme",
+    "dracula",
+    "intellij",
+    "baltov"
+  ],
   "categories": [
     "Themes"
   ],
