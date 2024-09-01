@@ -1,0 +1,21 @@
+{
+  "name": "baltov-intellij-dracula-theme",
+  "displayName": "Baltov's Intellij Dracula Colour Theme",
+  "description": "Modified Intellij Dracula Colour Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Baltov's Intellij Dracula Colour Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Baltov's Intellij Dracula Colour Theme-color-theme.json"
+      }
+    ]
+  }
+}
